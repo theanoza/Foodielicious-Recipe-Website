@@ -1,0 +1,8 @@
+<form action="/deleteRecipes" method="POST">
+    <label for="recipeSelect">Select Recipe to Delete:</label>
+    <select id="recipeSelect" name="recipeId">
+        <% recipes.forEach(function(recipe) { %>
+            <option value="<%= recipe.id %>"><%= recipe.name %></option>
+        <% }); %>
+    </select>
+</form>
