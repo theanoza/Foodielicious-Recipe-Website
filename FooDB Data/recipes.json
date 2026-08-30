@@ -1,0 +1,397 @@
+[{
+    "_id": {
+      "$oid": "65aeaefb268e4112c80d7fb2"
+    },
+    "name": "Avocado Toast",
+    "description": "\n   1. Place a frying pan over high heat and add 2-3 tablespoons of olive oil. \n   2. Put the sandwich bread slices into the pan and sauté them for 1-2 minutes on both sides, until golden. Remove and set them aside.  \n   3. Peel the avocados and add them into a bowl. Press them well with a fork until they are mashed.  \n   4. Add the lime juice, salt, pepper, 3 tablespoons of olive oil, and mix.   \n   5. Spread the avocado over the bread slices and set them aside.  \n   6. Place a pot with water and 1-2 tablespoons of the vinegar over medium heat and let it simmer.   \n   7. Divide the vinegar among 2 bowls and put an egg in each one.  \n   8. Swirl the water of the pot to make a whirlpool and put one of the eggs in. Once it gets its shape, add the second egg. Cook them for 2-3 minutes, then remove them and transfer to paper towels.  \n   9. Place the eggs over the avocado and add salt, pepper, the cherry tomatoes cut in half, coriander, and 1 tablespoon of olive oil.  \n   10. Serve with lime slices and finely chopped chili pepper. ",
+    "email": "test@gmail.com",
+    "ingredients": [
+      "2 slices sandwich bread",
+      "7 tablespoons olive oil",
+      "3 avocados",
+      "lime juice of 1 lime",
+      "salt",
+      "pepper",
+      "60 g vinegar from white wine",
+      "2 eggs",
+      "50 g cherry tomatoes",
+      "1 tablespoon coriander"
+    ],
+    "category": "Breakfast & Brunch Recipes",
+    "image": "avocadoToast.jpg",
+    "preparation": "20'", 
+    "cooking":"Easy",
+    "calories":"800",
+    "__v": 0
+  },{  
+    "_id": {
+        "$oid": "65aeaefb268e4112c80d7fb3"
+    },
+    "name": "Pork Roast Stuffed with Feta",
+    "description": " 1. Preheat the oven to 180°C (350°F) set to fan. \n 2. Spread a sheet of aluminum foil on your worktop, and then spread a piece of parchment paper over it. \n 3. Sprinkle with salt and pepper, and transfer the pork to the parchment paper, placing its large side in front of you. \n 4. Use a knife to open it up lengthwise in half, so you can easily wrap it into a roll. \n 5. Flatten the pork by cutting off the excess parts and placing them where the meat is thinner. \n 6. Use a knife to make several incisions on the inside of the meat, and then season it with plenty of salt and pepper. \n 7. Spread the mustard with a spoon over the whole surface of the meat, and sprinkle with 2-3 tablespoons of oregano. \n 8. Cut the peppers into strips and spread them over the pork. \n 9. Use a knife to cut the feta cheese into big pieces, and then spread them over the peppers. \n 10. Wrap the pork into a roll, using the parchment paper, sprinkle with the remaining oregano, and then drizzle it with olive oil. \n 11. Wrap the pork roll tightly with the parchment paper and aluminum foil, and transfer it to a baking pan with a rack, seam-side down. \n 12. Put the pan in the oven and roast the pork for 3 hours. \n 13. Uncover it and roast it for another 30 minutes until nicely golden. \n 14. Remove the pan from the oven and let the pork cool for 20-30 minutes. \n 15. Cut it into pieces, serve with mashed potatoes, and then sprinkle with oregano leaves.",
+    "email": "test@gmail.com",
+    "ingredients": [
+        "2 kilos pork neck, boneless and skinless",
+        "50 g mustard",
+        "3-4 tablespoons oregano",
+        "200 g florina peppers",
+        "1 tablespoon olive oil",
+        "salt",
+        "pepper"
+    ],
+    "category": "Lunch Recipes",
+    "image": "xoirinoRolo.jpg",
+    "preparation": "15'", 
+    "cooking":"Medium",
+    "calories":"550",
+    "__v": 0
+},{
+    "_id": {
+        "$oid": "65aeafea0d99ce5bd6cfe27f"
+    },
+    "name": "Stuffed Pork Neck with Ham and Cheese",
+    "description": "For the flavored butter:  1. Put the butter into a bowl and set it aside. \n  2. Finely chop the garlic, thyme, and rosemary, and add them to the bowl. \n  3. Add the salt, pepper, mustard, and honey, mix them with a spoon, and set the flavored butter aside. \n\n  For the pork neck: 1. Preheat the oven to 180°C (350°F) set to fan. \n 2. Spread a sheet of aluminum foil on your worktop, place a piece of parchment paper over it, and then place the pork neck on the parchment. \n 3. Use a knife to cut the pork lengthwise in half, to open it up and make room for the filling. \n 4. Make several incisions on the inner surface of the meat with the knife. \n 5. Spread half of the flavored butter over the whole surface of the meat with a spoon. \n 6. Add one layer of the Metsovone cheese slices on top, and then a layer of the ham slices. \n 7. Use the parchment paper to wrap the pork into a roll, in order to seal the filling well, and then sprinkle it with salt. \n 8. Place the large side of the pork roll parallel to the large side of the parchment paper. \n 9. Spread the rest of the butter over the whole surface of the pork, and wrap the meat first with the parchment paper and then with the aluminum foil. \n 10. Transfer the pork to a baking pan with a rack, seam-side up, and roast it for 3 hours. (During this time, make sure to have the sweet potatoes already prepared in order to bake them in the oven alongside the meat.) \n 11. Increase the oven’s temperature to 190°C (370°F), uncover the pork, and roast it for 30 more minutes. \n 12. Remove the pan from the oven and set it aside. \n  For the sweet potatoes:  1. Leave the skin on the sweet potatoes, cut them into wedges, and transfer them to a baking pan with the skin side facing down. \n 2. Season the sweet potatoes with salt, pepper, and thyme, and then drizzle them with olive oil. \n 3. Put the pan in the oven and bake the sweet potatoes along with the meat for 30 minutes. \n 4. Remove the pan from the oven and set it aside. ",
+    "email": "test@gmail.com",
+    "ingredients": [
+        "100 g butter at room temperature",
+        "1 clove of garlic",
+        "2 tablespoon fresh thyme",
+        "1 tablespoon rosemary",
+        "2 tablespoon mustard",
+        "1 tablespoon honey",
+        "salt",
+        "pepper",
+        "2 kilos pork neck, boneless",
+        "200 g smoked cheese",
+        "150 g ham",
+        "1 kilo sweet potatoes",
+        "2 tablespoon olive oil"
+    ],
+    "category": "Dinner Recipes",
+    "image": "xoirinoGemisto.jpg",
+    "preparation": "25'", 
+    "cooking":"Difficulty",
+    "calories":"785",
+    "__v": 0
+},{
+    "_id": {
+        "$oid": "65aeb12c15eb03c93256bcdc"
+    },
+    "name": "Chocolate and Berries Cake Roll",
+    "description": "For the cake layer: 1. Preheat the oven to 160°C (320°F) set to fan. \n 2. Line a 28x36 cm baking sheet with parchment paper. \n 3. Put the sugar, flour, cocoa powder, salt, and baking powder into a mixer’s bowl, and mix them well with a spoon. \n 4. Add the eggs and vanilla powder, transfer the bowl to the mixer, and beat the ingredients with the whisk attachment at high speed, for 5 minutes, until completely combined. \n 5. Transfer the cake batter to the pan and spread it with a spatula over the whole surface. \n 6. Spread a piece of parchment paper over the cake batter. \n 7. Put the pan in the oven and bake the cake for 10 minutes. \n 8. Remove the pan from the oven and let the cake cool for 10-15 minutes. \n 9. Carefully unmold the cake from the pan and remove the parchment paper. \n 10. Set the cake aside to cool and then drizzle it with the brandy. \n  For the chocolate mousse: 1. Finely chop the chocolate and put it in a small pot. \n 2. Add the milk, brandy, and instant coffee. \n 3. Place the pot over low heat and stir the ingredients with a silicone spatula for 2-3 minutes, until the chocolate is completely melted and you have a smooth mixture. \n 4. Transfer the mixture to a bowl and set it aside for 10-15 minutes until cooled. \n 5. Add ⅓ of the whipped cream and fold it with the silicone spatula until incorporated into the mixture. \n 6. Add the rest of the whipped cream and fold gently until incorporated into the mousse. \n 7. Cover the bowl with plastic wrap and refrigerate the mousse for 2 hours until it thickens well. ",
+    "email": "test@gmail.com",
+    "ingredients": [
+        "110 g icing sugar",
+        "90 g all-purpose flour",
+        "30 g cocoa powder",
+        "1 pinch salt",
+        "1 teaspoon baking powder",
+        "3 eggs",
+        "1 vanilla powder",
+        "40 g + 20 g brandy",
+        "300 g chocolate couverture",
+        "130 g whole milk",
+        "1 teaspoon instant coffee",
+        "250 g heavy cream 35% whipped"
+    ],
+    "category": "Dessert Recipes",
+    "image": "kormosSokolatas.jpg",
+    "preparation": "30'", 
+    "cooking":"Medium",
+    "calories":"500",
+    "__v": 0
+},{
+    "_id": {
+        "$oid": "65aeafea0d99ce5bd6cfe27d"
+    },
+    "name": "Strawberry Smoothie",
+    "description": " 1. Clean the kiwis, the strawberries, and cut them into pieces. \n  2. In a blender add the kiwis, the strawberries, the yogurt, the milk, the 2 tablespoons honey, and beat until they are homogenized. \n  3. Have a taste and if the mixture is not sweet enough (depends on the type of honey), add the remaining honey. \n  4. Keep beating for a few more seconds.  \n  5. Divide the smoothie among glasses and serve right away. \n",
+    "email": "test@gmail.com",
+    "ingredients": [
+        "2 kiwis",
+        "100 g strawberries",
+        "250 g light strained yogurt",
+        "150 g low fat milk",
+        "2-3 tablespoons honey"
+    ],
+    "category": "Smoothies Recipes",
+    "image": "strawberrySmoothie.jpg",
+    "preparation": "10'", 
+    "cooking":"Easy",
+    "calories":"130",
+    "__v": 0
+},{
+    "_id": {
+        "$oid": "65aeafea0d99ce5bd6cfe27e"
+    },
+    "name": "Greek dakos",
+    "description": " 1. Place the 2 pieces of the dako onto 2 plates, outer side or crust facing down. \n  2. Cut the tomato in half. Grate one half into a bowl. Cut the other half into little cubes. We are going to make a mixture with the grated tomato to soften the dako. \n  3. Add to a bowl the grated tomato, the vinegar, sugar, salt, pepper, finely chopped basil and finely chopped thyme. Toss. Taste and adjust according to your preferences.  \n  4. Pour the mixture over the dako.  \n  5. Top with the tomato cubes, the finely chopped fresh onion, the feta cheese, and drizzle with the olive oil.  \n  6. Serve with olives, olive oil, some freshly ground pepper, and oregano. ",
+    "email": "test@gmail.com",
+    "ingredients": [
+        "1 round barley rusk",
+        "1 tomato",
+        "1 teaspoon vinebar",
+        "1 teaspoon granulated sugar",
+        "1 tablespoon olive oil",
+        "1 pinch salt",
+        "pepper",
+        "1 tablespoon basil",
+        "thyme",
+        "1/2 spring onion",
+        "100 g feta cheese"
+    ],
+    "category": "Quick & Easy Recipes",
+    "image": "ntakos.jpg",
+    "preparation": "10'", 
+    "cooking":"Easy",
+    "calories":"400",
+    "__v": 0
+},{
+    "_id": {
+        "$oid": "65aeb12c15eb03c93256bcda"
+    },
+    "name": "Poke Bowl with Vegan Nuggets",
+    "description": " 1. Place a deep frying pan or a wok (that has a lid) over medium heat and add the rice, water, salt, pepper, and 30 g olive oil. \n  2. Put the lid on the pan and bring the water to a boil. \n 3. Lower the heat to very low and simmer the rice for 12 minutes. \n 4. Remove the pan from the heat, fluff the rice with a fork, and set it aside. \n 5. Break up the parsley and the mint with your hands, and add them to a chopper blender. \n 6. Cut the spring onion into big pieces, and add it to the blender. \n 7. Add the garlic, lime juice, and the rest of the olive oil, and beat them until mashed. \n 8. Add the mixture to the rice and mix well. \n 9. Preheat the oven to 180°C (350°F) set to fan. \n 10. Line a baking pan with parchment paper and then arrange the nuggets in the pan. \n 11. Put the pan in the oven and bake the nuggets for 10-12 minutes. \n 12. Remove the pan from the oven, cut the nuggets into strips, and set them aside. \n 13. Place a pot over high heat, add some water, and bring it to a boil. \n 14. Add some salt and the broccoli, and boil it for 5-6 minutes. \n 15. Remove the pot from the heat, drain the broccoli, and transfer it to a bowl. \n 15. Add the olive oil, salt, pepper, and lime juice, and mix well. \n 16. Divide the rice, broccoli, nuggets, and cherry tomatoes among 4 bowls, and serve.",
+    "email": "test@gmail.com",
+    "ingredients": [
+        "250 g basmati rice",
+        "500 g water",
+        "140 g olive oil",
+        "¼ bunch parsley",
+        "¼ bunch mint",
+        "1 spring onion",
+        "½ clove of garlic",
+        "lime juice",
+        "salt",
+        "pepper",
+        "300 g vegan nuggets",
+        "750 g broccoli",
+        "180 g cherry tomatoes"
+    ],
+    "category": "Vegetarian & Vegan Recipes",
+    "image": "veganpokebowl.jpg",
+    "preparation": "10'", 
+    "cooking":"Easy",
+    "calories":"700",
+    "__v": 0
+},{
+    "_id": {
+        "$oid": "65aeb12c15eb03c93256bcd9"
+    },
+    "name": "Easy Meatball Pasta Bake",
+    "description": "1. Break the pasta in half with your hands, and put it in a 30x40 cm ovenproof baking dish. \n 2. Add the olive oil and mix them with your hands. \n 3. Add the water, canned tomatoes, salt, and pepper. \n 4. Cut the cherry tomatoes in half and the garlic into slices, and add them to the baking dish. \n 5. Mix well with a spoon to cover the pasta entirely with the sauce. \n 6. Sprinkle with the sugar and oregano, and set the baking dish aside. \n\n For the meatballs: 1. Preheat the oven to 220οC set to fan. \n 2. Put the ground meat, parsley, oregano, salt, pepper, olive oil, parmesan, and dried breadcrumbs into a bowl. \n 3. Mix the ingredients well with your hands, shape the ground meat into 15-20 meatballs, and put them in the baking dish over the pasta. \n 4. Cover with aluminum foil, put the baking dish in the oven, and bake the pasta for 40 minutes. \n 5. Remove the aluminum foil and bake the pasta for another 5-10 minutes until the meatballs are nicely golden. \n 6. Remove the pasta bake from the oven and mix it well with a serving spoon or a pair of tongs. \n 7. Serve with parmesan and parsley, drizzle with olive oil, and sprinkle with pepper. ",
+    "email": "test@gmail.com",
+    "ingredients": [
+        "350 g spaghetti",
+        "6 tablespoon olive oil",
+        "800 g water",
+        "800 g canned tomatoes",
+        "150 g cherry tomatoes",
+        "2 clove of garlic",
+        "1 teaspoon granulated sugar",
+        "2 tablespoon oregano",
+        "salt",
+        "pepper",
+        "500 g ground chicken",
+        "1 tablespoon parsley",
+        "2 tablespoon parmesan cheese",
+        "30 g dry breadcrumbs"
+    ],
+    "category": "Pasta Recipes",
+    "image": "pastakefte.jpg",
+    "preparation": "15'", 
+    "cooking":"Easy",
+    "calories":"534",
+    "__v": 0
+},{
+    "_id": {
+        "$oid": "65aeb12c15eb03c93256bcdb"
+    },
+    "name": "Banoffee Profiteroles",
+    "description": "For the choux pastry: \n 1. Preheat the oven to 170°C (340°F) set to fan. \n 2. Place a saucepan over high heat and add the milk, water, flour, sugar, salt, and butter. \n 3. Stir with a wooden spoon for 2-3 minutes, until the mixture is completely combined and you have a paste that looks like a dough. \n 4. Transfer the paste to a mixer’s bowl and beat it with the whisk attachment at high speed, just for a few seconds, to lower its temperature. \n 5. Add the eggs one by one, waiting for each egg to be incorporated before adding the next, and then beat the dough for 1-2 minutes. \n 6. Use a silicone spatula to transfer the dough to a pastry bag with a round tip. \n 7. Dot a little of the dough on a baking pan, then line the pan with parchment paper, and stick it well. \n 8. Shape 24 choux pastries in the pan and make sure to place them apart from each other. \n 9. Put the pan in the oven and bake the choux pastries for 30 minutes. \n 10. Lower the oven’s temperature to 160°C (320°F) and bake the choux for another 15 minutes without opening the oven door. \n 11. Remove the pan from the oven and set the choux aside. \n For the caramel pastry cream: \n 1. Place a saucepan over high heat and add the milk, sugar, corn starch, and eggs. \n 2. Whisk the mixture constantly for 4-5 minutes, until it comes to a boil and thickens. \n 3. Remove the saucepan from the heat and add the vanilla powder, salt, brandy, and dulce de leche. \n 4. Whisk the pastry cream for 1-2 more minutes and then transfer it to a bowl. \n 5. Cover the bowl with plastic wrap, making sure that the plastic wrap touches the surface of the cream, and refrigerate it for 30-40 minutes to chill well.",
+    "email": "test@gmail.com",
+    "ingredients": [
+        "50 g + 800 g whole milk",
+        "60 g water",
+        "70 g all-purpose flour",
+        "½ teaspoon granulated sugar",
+        "¼ teaspoon salt",
+        "50 g butter",
+        "4 eggs, medium",
+        "200 g granulated sugar",
+        "40 g corn starch",
+        "1 vanilla powder",
+        "4 tablespoon brandy",
+        "400 g dulce de leche",
+        "3 bananas, medium",
+        "200 g whipped cream",
+        "20 g chocolate shavings"
+    ],
+    "category": "Dessert Recipes",
+    "image": "banoffee.jpg",
+    "preparation": "35'", 
+    "cooking":"Medium",
+    "calories":"602",
+    "__v": 0
+},{
+    "_id": {
+        "$oid": "65aeb22de4518fbcd6d360a3"
+    },
+    "name": "Greek Vegetable Stew",
+    "description": "1. Place a frying pan over high heat and add 2 tablespoons of olive oil. \n 2. At the same time, place a pot over high heat and add 4 tablespoons of olive oil. \n 3. Cut the onion and the leek into big pieces, the carrots into half-moons, and add them to the pot.  Sauté them until golden. \n 4. Cut the eggplants into slices, or into pieces, and put them in the pan. Cook them for 2-3 minutes until golden and cooked through. \n 5. Transfer the eggplants to the pot and place the pan back on the heat. \n 6. Cut the zucchini into big half-moons, the peppers into big pieces, and add them to the pan. Sauté them for 1-2 minutes until golden. \n 7. Cut the potatoes into large pieces and add them to the pot. \n 8. Transfer the zucchini and the peppers to the pot with the rest of the veggies and mix. \n 9. Cut the tomatoes into big pieces and add them to the pot. \n 10. Then, add the garlic into pieces, water, vegetable bouillon cube, and mix. \n 11. Add the tomato paste, the oregano, and mix. \n 12. Cover the pot with the lid and boil the veggies over low heat for 40 minutes. \n 13. Serve with bread, oregano, olive oil, and pepper.",
+    "email": "test@gmail.com",
+    "ingredients": [
+        "6 tablespoon olive oil",
+        "1 onion",
+        "1 leek",
+        "2 carrots",
+        "2 eggplants",
+        "2 zucchinis",
+        "2 Florina peppers",
+        "2 potatoes",
+        "2 tomatoes",
+        "2 clove of garlic",
+        "400 g water",
+        "1 vegetable bouillon cube",
+        "2-3 tablespoon tomato paste",
+        "1 tablespoon oregano",
+        "salt & pepper"
+    ],
+    "category": "Healthy Recipes",
+    "image": "tourlou.jpg",
+    "preparation": "20'", 
+    "cooking":"Easy",
+    "calories":"194",
+    "__v": 0
+},{
+    "_id": {
+        "$oid": "65aeb22de4518fbcd6d360a1"
+    },
+    "name": "Greek Moussaka",
+    "description": "For the ground meat: \n 1. Place a pot over high heat and add the olive oil. \n 2. Coarsely chop the onion and add to pan. \n  3. Finely chop the garlic and add to pan along with thyme, cloves, cinnamon and sugar. Sauté for 2-3 minutes until they caramelize nicely. \n  4. Add the ground meat and break it up with a wooden spoon. Sauté until golden brown. \n 5. Add the tomato paste and sauté so that it loses its bitterness. \n  6. Add the chopped tomatoes, lower heat and simmer for 5-10 minutes until the sauce thickens. \n  7. Remove from heat and add the parsley and coarsely chopped basil. Season with salt and pepper. \n For the béchamel sauce: \n 1. Place a pot over medium heat. \n 2. Add the butter and let it melt. \n 3. Add the flour and whisk until it soaks up all of the butter. \n 4. Add the milk in small batches while continuously whisking so that no lumps form. \n 4. As soon as the béchamel sauce thickens and bubbles start to form on the surface, remove from heat. \n 5. Add the nutmeg, salt, pepper, 100 g parmesan and 3 egg yolks. Whisk thoroughly.",
+    "email": "test@gmail.com",
+    "ingredients": [
+        "3 potatoes",
+        "2 zucchinis",
+        "2 eggplants",
+        "1 onion",
+        "2 tablespoon olive oil",
+        "1 clove of garlic",
+        "1 tablespoon thyme",
+        "3 pinches granulated sugar",
+        "1/2 teaspoon ground cloves",
+        "1 level teaspoon cinnamon",
+        "1 tablespoon tomato paste",
+        "500 g ground beef",
+        "400 g canned tomatoes",
+        "1/2 bunch parsley",
+        "1/2 bunch basil",
+        "salt & pepper",
+        "1 pinch ground nutmeg",
+        "100 g parmesan cheese",
+        "3 egg yolks"
+    ],
+    "category": "Mediterranean Recipes",
+    "image": "mousakas.jpg",
+    "preparation": "35'", 
+    "cooking":"Medium",
+    "calories":"465",
+    "__v": 0
+},{
+    "_id": {
+        "$oid": "65aeb22de4518fbcd6d360a4"
+    },
+    "name": "Overnight Oat Pudding",
+    "description": "1. Mix all of the ingredients in a bowl until completely combined. \n 2. Transfer the mixture to jars and refrigerate them for 12-24 hours. \n 3. Serve the following day with fresh fruit, cereal, dried fruits, nuts, extra honey, or anything else you like!",
+    "email": "test@gmail.com",
+    "ingredients": [
+        "150 g oats",
+        "250 g strained yogurt",
+        "250 g water",
+        "1 banana, mashed with a fork",
+        "1/2 teaspoon cinnamon",
+        "1 tablespoon honey "
+    ],
+    "category": "Breakfast & Brunch Recipes",
+    "image": "overnightoat.jpg",
+    "preparation": "5'", 
+    "cooking":"Easy",
+    "calories":"473",
+    "__v": 0
+},{
+    "_id": {
+        "$oid": "65aeb22de4518fbcd6d360a0"
+    },
+    "name": "Tomato and Pepper Omelet",
+    "description": "1. Preheat the oven to 180ο C (350ο F) set to fan. \n 2. Grease a 16 cm round baking pan with 1 tablespoon olive oil and set it aside until needed. \n 3. Crack the eggs into a bowl and whisk them along with salt and pepper. \n 4. Cut the tomato and the pepper into small cubes, and add them into the bowl with the eggs. \n 5. Add the parmesan into the bowl and whisk well. \n 6. Pour the mixture into the baking pan and drizzle with 1 tablespoon olive oil. \n 7. Bake in the oven for 15-20 minutes until the omelet is firm and nicely golden. \n 8. Remove the baking pan from the oven and serve with fresh, finely chopped thyme.",
+    "email": "test@gmail.com",
+    "ingredients": [
+        "5 eggs",
+        "salt & pepper",
+        "1 tomato & 1 green pepper",
+        "50 g parmesan cheese",
+        "2 tablespoon olive oil"
+    ],
+    "category": "Breakfast & Brunch Recipes",
+    "image": "omeleta.jpg",
+    "preparation": "10'", 
+    "cooking":"Easy",
+    "calories":"484",
+    "__v": 0
+},{
+    "_id": {
+        "$oid": "65aeb22de4518fbcd6d360a2"
+    },
+    "name": "Chicken Soup with Trahana",
+    "description": "1. Place a pot over high heat and let it heat up well. \n 2. Coarsely chop the onion, finely chop the garlic and the carrot, and set them aside. \n 3. Add the olive oil and the vegetables to the pot, mix them with a wooden spoon, and sauté them for 1-2 minutes. \n 4. Add the ground chicken and use the spoon to smash it into pieces, without breaking it up completely. \n 5. Season with salt and pepper, and sauté the ground chicken for 3-4 minutes until it is nicely browned, stirring occasionally. \n 6. Add the trahana pasta, thyme, chicken bouillon cube, and water, bring the soup to a boil, and cook it for 10 minutes. \n 7. Remove the pot from the heat, add the lemon zest and juice, and stir well. \n 8. Serve with olive oil, thyme, and pepper.",
+    "email": "test@gmail.com",
+    "ingredients": [
+        "500 g ground chicken",
+        "200 g sour trahana",
+        "1 onion",
+        "1 clove of garlic",
+        "1 carrot",
+        "2-3 tablespoon olive oil",
+        "salt & pepper",
+        "1 tablespoon thyme",
+        "1 chicken bouillon cube",
+        "1,9 liters water",
+        "lemon zest, from 2 lemons",
+        "lemon juice, from 2 lemons"
+    ],
+    "category": "Dinner Recipes",
+    "image": "kotosoupa.jpg",
+    "preparation": "10'", 
+    "cooking":"Easy",
+    "calories":"324",
+    "__v": 0
+},{
+    "_id": {
+        "$oid": "65aeb22de4518fbcd6d360a5"
+    },
+    "name": "Greek Legume Soup",
+    "description": "1. Put the beans and the chickpeas into a bowl, and then fill the bowl with water. \n 2. Add 1 level teaspoon of salt, stir gently, and set the legumes aside to soak for 8-12 hours. \n 3. Coarsely chop the onions, cut the carrots into cubes and the celery into 1 cm thick slices, and set them aside. \n 4. Place a pot over medium heat and add the olive oil, onions, carrots, and celery. \n 5. Saute the veggies for 3-4 minutes until they are caramelized. \n 6. Add the tomato paste and thyme, and keep sauteing for 1 more minute. \n 7. Add the water, grated tomatoes, salt, pepper, sugar, and vegetable bouillon cube, and bring the mixture to a boil. \n 8. Drain the beans and chickpeas, and add them to the pot. \n 9. Put the lid on the pot and simmer the soup for 40 minutes. \n 10. Add the lentils and boil the soup for another 30-40 minutes, until the legumes are tender and the soup thickened. \n 11. Divide the soup into plates and serve with olive oil and pepper.",
+    "email": "test@gmail.com",
+    "ingredients": [
+        "200 g beans, white",
+        "200 g chickpeas",
+        "200 g lentils",
+        "2 onions",
+        "2 carrots",
+        "3 stick celery",
+        "3 tablespoon olive oil",
+        "1 tablespoon tomato paste",
+        "1 tablespoon thyme",
+        "2 liters water",
+        "500 g tomatoes",
+        "2 teaspoon granulated sugar",
+        "1 vegetable bouillon cube",
+        "salt & pepper"
+    ],
+    "category": "Lunch Recipes",
+    "image": "ospria.jpg",
+    "preparation": "20'", 
+    "cooking":"Easy",
+    "calories":"238",
+    "__v": 0
+}]

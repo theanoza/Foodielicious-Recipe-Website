@@ -1,0 +1,71 @@
+    [{
+        "_id": {
+            "$oid": "65a2d94808587cbf8952e40d"
+        },
+        "name": "Breakfast & Brunch Recipes",
+        "image": "breakfastone.jpg",
+        "__v": 0
+    },{
+        "_id":{
+            "$oid": "65a2d94808587cbf8952e40e"
+        },
+        "name": "Lunch Recipes",
+        "image": "lunch.jpg",
+        "__v": 0
+    },{
+        "_id":{
+            "$oid":"65a2d94808587cbf8952e40f"
+        },
+        "name": "Dinner Recipes",
+        "image": "dinner.jpg",
+        "__v": 0
+    },{
+        "_id":{
+            "$oid":"65a2d94808587cbf8952e410"
+        },
+        "name": "Dessert Recipes",
+        "image": "desserts.jpg",
+        "__v": 0
+    },{
+        "_id":{
+            "$oid":"65a2d94808587cbf8952e411"
+        },
+        "name": "Smoothies Recipes",
+        "image": "smoothie.jpg",
+        "__v": 0
+    },{
+        "_id":{
+            "$oid":"65a2d94808587cbf8952e412"
+        },
+        "name": "Quick & Easy Recipes",
+        "image": "quickeasy.jpg",
+        "__v": 0
+    },{
+        "_id":{
+            "$oid":"65a9381f25a2866bb5a15286"
+        },
+        "name": "Vegetarian & Vegan Recipes",
+        "image": "vegetarian.jpg",
+        "__v": 0
+    },{
+        "_id":{
+            "$oid":"65a93a9025a2866bb5a15287"
+        },
+        "name": "Healthy Recipes",
+        "image": "healthy.jpg",
+        "__v": 0
+    },{
+        "_id":{
+            "$oid":"65a93af225a2866bb5a15288"
+        },
+        "name": "Mediterranean Recipes",
+        "image": "mediterranean.jpg",
+        "__v": 0
+    },{
+        "_id":{
+            "$oid":"65a93b2825a2866bb5a15289"
+        },
+        "name": "Pasta Recipes",
+        "image": "pasta.jpg",
+        "__v": 0
+    }]
